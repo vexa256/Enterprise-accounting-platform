@@ -13,7 +13,7 @@ return [
     'price'                 => 'قيمت',
     'sub_total'             => 'جمع کل',
     'discount'              => 'تخفیف',
-    'item_discount'         => 'Line Discount',
+    'item_discount'         => 'تخفیف جزء',
     'tax_total'             => 'مجموع مالیات',
     'total'                 => 'مجموع',
 
@@ -29,9 +29,9 @@ return [
     'histories'             => 'تاریخچه',
     'payments'              => 'پرداخت ها',
     'add_payment'           => 'پرداخت',
-    'mark_paid'             => 'Mark Paid',
+    'mark_paid'             => 'تغییر وضعیت به پرداخت شده',
     'mark_received'         => 'دریافت شده',
-    'mark_cancelled'        => 'Mark Cancelled',
+    'mark_cancelled'        => 'تغییر وضعیت به لغو شده',
     'download_pdf'          => 'دانلود PDF',
     'send_mail'             => 'ارسال ایمیل',
     'create_bill'           => 'ایجاد صورتحساب',
@@ -45,13 +45,13 @@ return [
         'paid'              => 'پرداخت شده',
         'overdue'           => 'سر رسید شده',
         'unpaid'            => 'پرداخت نشده',
-        'cancelled'         => 'Cancelled',
+        'cancelled'         => 'لغو شده',
     ],
 
     'messages' => [
-        'marked_received'   => 'Bill marked as received!',
-        'marked_paid'       => 'Bill marked as paid!',
-        'marked_cancelled'  => 'Bill marked as cancelled!',
+        'marked_received'   => 'وضعیت صورتحساب به دریافت شده تغییر کرد!',
+        'marked_paid'       => 'وضعیت صورتحساب به پرداخت شده تغییر کرد!',
+        'marked_cancelled'  => 'وضعیت صورتحساب به لغو شده تغییر کرد!',
         'draft'             => 'این صورت حساب به صورت پیشنویس است و پس از دریافت وجه بر روی نمودار را اعمال می شود.',
 
         'status' => [

@@ -2,20 +2,22 @@
 
 return [
 
-    'bulk_actions'      => 'Bulk Action|Bulk Actions',
+    'bulk_actions'      => 'اعمال گروهی|اعمال گروهی',
     'selected'          => 'انتخاب شده',
-    'no_action'         => 'No action available',
+    'no_action'         => 'هیچ کاری در دسترس نیست',
 
     'message' => [
-        'duplicate'     => 'Are you sure you want to <b>duplicate</b> selected record?',
-        'delete'        => 'Are you sure you want to <b>delete</b> selected record?|Are you sure you want to <b>delete</b> selected records?',
-        'export'        => 'Are you sure you want to <b>export</b> selected record?|Are you sure you want to <b>export</b> selected records?',
-        'enable'        => 'Are you sure you want to <b>enable</b> selected record?|Are you sure you want to <b>enable</b> selected records?',
-        'disable'       => 'Are you sure you want to <b>disable</b> selected record?|Are you sure you want to <b>disable</b> selected records?',
-        'paid'          => 'Are you sure you want to mark selected invoice as <b>paid</b>?|Are you sure you want to mark selected invoices as <b>paid</b>?',
-        'sent'          => 'Are you sure you want to mark selected invoice as <b>sent</b>?|Are you sure you want to mark selected invoices as <b>sent</b>?',
-        'received'      => 'Are you sure you want to mark selected bill as <b>received</b>?|Are you sure you want to mark selected bills as <b>received</b>?',
-        'cancelled'     => 'Are you sure you want to <b>cancel</b> selected invoice/bill?|Are you sure you want to <b>cancel</b> selected invoices/bills?',
+        'duplicate'     => 'از ایجاد یک رکورد <b>تکراری</b> از روی رکورد انتخاب شده اطمینان دارید؟',
+        'delete'        => 'از <b>پاک کردن</b> رکورد انتخاب شده اطمینان دارید؟|از <b>پاک کردن</b> رکورد های انتخاب شده اطمینان دارید؟',
+        'export'        => 'از <b>ایجاد خروجی</b> برای رکورد انتخاب شده اطمینان دارید؟|از <b>ایجاد خروجی</b> برای رکورد های انتخاب شده اطمینان دارید؟',
+        'enable'        => 'از <b>فعال کردن</b> رکورد انتخاب شده اطمینان دارید؟|از <b>فعال کردن</b> رکورد های انتخاب شده اطمینان دارید؟',
+        'disable'       => 'از <b>غیرفعال کردن</b> رکورد انتخاب شده اطمینان دارید؟|از <b>غیرفعال کردن</b> رکورد های انتخاب شده اطمینان دارید؟',
+        'paid'          => 'از تغییر وضعیت فاکتور انتخاب شده به <b>پرداخت شده</b> اطمینان دارید؟|از تغییر وضعیت فاکتور های انتخاب شده به <b>پرداخت شده</b> اطمینان دارید؟',
+        'sent'          => 'از تغییر وضعیت فاکتور انتخاب شده به <b>فرستاده شده</b> اطمینان دارید؟|از تغییر وضعیت فاکتور های انتخاب شده به <b>فرستاده شده</b> اطمینان دارید؟',
+        'received'      => 'از تغییر وضعیت صورتحساب انتخاب شده به <b>دریافت شده</b> اطمینان دارید؟|از تغییر وضعیت صورتحساب های انتخاب شده به <b>دریافت شده</b> اطمینان دارید؟',
+        'cancelled'     => 'از <b>لغو کردن</b> فاکتور/صورتحساب انتخاب شده اطمینان دارید؟|از <b>لغو کردن</b> فاکتور ها/صورتحساب های انتخاب شده اطمینان دارید؟',
+        'reconcile'     => 'از تغییر وضعیت رکورد انتخاب شده به <b>بررسی شده</b> اطمینان دارید؟|از تغییر وضعیت رکورد های انتخاب شده به <b>بررسی شده</b> اطمینان دارید؟',
+        'unreconcile'   => 'از تغییر وضعیت رکورد انتخاب شده به <b>بررسی نشده</b> اطمینان دارید؟|از تغییر وضعیت رکورد های انتخاب شده به <b>بررسی نشده</b> اطمینان دارید؟',
     ],
 
 ];
