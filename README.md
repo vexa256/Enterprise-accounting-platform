@@ -1,1 +1,1 @@
-Enterprise Accounting Software For SMEs heavilly modified from the Opensource web app Akaunting
+Enterprise Accounting Software For SMEs built in laravel
